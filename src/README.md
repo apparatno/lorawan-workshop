@@ -21,4 +21,4 @@ kan konvertere dataene i TTN til et mer nyttig format.
 
 ## [4 MQTT client](04-mqtt-client)
 
-Lag en MQTT klient som lytter på events fra termometeret.
+Her er et eksempel på en MQTT klient som lytter på events fra termometeret.
