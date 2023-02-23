@@ -5,6 +5,8 @@ Dette eksemplet er skrevet i Go
 men du kan bruke et annet språk
 hvis du er mer komfortabel med det.
 
+[The Things Network dokumentasjon på MQTT](https://www.thethingsindustries.com/docs/integrations/mqtt/)
+
 **Tips**
 
 👉 Hent ut connection info fra TTN Console 
@@ -19,3 +21,8 @@ enn bare din payload fra Arduinoen.
 Trykk på en melding i TTN Console
 for å se hva den inneholder.
 `data` er hva du er ute etter.
+
+## ⭐ Stretch goal ⭐
+
+Send en melding til din Arduino 
+ved å publisere via MQTT til TTN brokeren.
